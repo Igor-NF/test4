@@ -1,1 +1,1 @@
-# Supel progect aboout Pull Requests
+# Super project about Pull Requests
